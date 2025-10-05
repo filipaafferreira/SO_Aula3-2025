@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" serverName="Remote Host (87566b54-644d-4c43-af82-c39458f77dbc)">
     <serverData>
       <paths name="Remote Host (87566b54-644d-4c43-af82-c39458f77dbc)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/home/aluno/SO_Aula3-2025" local="$PROJECT_DIR$" />
           </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/scheduler_examples/cmake-build-debug" />
+          </excludedPaths>
         </serverdata>
       </paths>
     </serverData>
